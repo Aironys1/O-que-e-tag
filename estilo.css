@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+h2, h3,h4,h5,h6,strong,p,u{
+    margin-left: 50px;
+    color: brown;
+}
+
+body {
+    background-color:rgb(112, 141, 230);
+}
